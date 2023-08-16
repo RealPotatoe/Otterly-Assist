@@ -1,0 +1,33 @@
+# General
+__pycache__/
+*.py[cod]
+*.sqlite
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Virtual environment
+venv/
+env/
+*.pyc
+*.pyo
+
+# Dependency directories
+bin/
+build/
+include/
+lib/
+lib64/
+share/
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+logs/
+TODO.txt
